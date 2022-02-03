@@ -10,7 +10,7 @@ Visuarithm is for beginner coding students who may need some extra help understa
 
 ### How?
 
-Users see a dataset on one side of the screen while the other contains the code that corresponds to the selected algorithm. The sorting algorithms in Visuarithm include but are not limited to Insertion Sort, Bubble Sort, Merge Sort, Quick Sort, Selection Sort, and Heap Sort, which users can select from a dropdown menu. With each press of the "play" button, users can see one step of the algorithm's sorting process while the other section of the screen highlights the part of the code that the step corresponds to. Users can use a sample dataset, or enter their own to get a better feel of how the algorithms work on various types of data. 
+Users see a dataset on one side of the screen while the other contains the code that corresponds to the selected algorithm. The sorting algorithms in Visuarithm include but are not limited to Insertion Sort, Bubble Sort, Merge Sort, Quick Sort, Selection Sort, and Heap Sort, which users can select from a dropdown menu. With each press of the "play" button, users can see one step of the algorithm's sorting process while the other section of the screen highlights the part of the code that the step corresponds to. Users can use a sample dataset, or enter their own to get a better feel of how the algorithms work on various types of data. If time allows, an extra feature could be added for users to capture the exact runtime of each algorithm so that students also gain a better grasp of sorting algorithm runtimes. 
 
 ### Scope
 
