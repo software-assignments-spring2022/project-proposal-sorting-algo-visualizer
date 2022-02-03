@@ -6,7 +6,7 @@ Visuarithm
 
 ### What and why? 
 
-Visuarithm creates easy-to-follow animations of how sorting algorithms work, alongside the algorithm code for a clear visual explanation. This is useful both in the classroom setting (for professors who have trouble showing the workings of a sorting algorithm) and for students overall who struggle with non-visual learning. 
+Visuarithm creates easy-to-follow animations of how sorting algorithms work, alongside the algorithm code which users can follow along with. We know that it can be a nightmare trying to figure out how a piece of code works simply by reading through it, so Visuarithm can help with this visual representation. This is useful both in the classroom setting (for professors who have trouble showing the workings of a sorting algorithm) and for students overall who struggle with non-visual learning. 
 
 ### For whom?
 
