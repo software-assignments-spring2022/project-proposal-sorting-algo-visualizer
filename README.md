@@ -10,7 +10,7 @@ We know that it can be a nightmare trying to figure out how a piece of code work
 
 ### For whom?
 
-Visuarithm is for beginner coding students who may need some extra help understanding basic sorting algorithms like Bubble Sort, Insertion Sort, Merge Sort etc.. We know that it's hard to imagine how these algorithms work (because we've been there too!) so Visuarithm is here to help. By showing a visual representation of how these algorithms sort a dataset, while highlighting the parts of its code that the animation corresponds to, students can gain a better grasp of their coding basics. 
+Visuarithm is for beginner coding students who may need some extra help understanding basic sorting algorithms like Bubble Sort, Insertion Sort, Merge Sort etc.. It's hard to simply imagine in our heads how these algorithms work (we've been there too!) so Visuarithm is here to help. By showing a visual representation of how the algorithms sort a dataset, while highlighting the parts of its code that the animation corresponds to, students can gain a better grasp of their coding basics. 
 
 ### How?
 
