@@ -4,6 +4,10 @@
 
 Visuarithm 
 
+### What and why? 
+
+Visuarithm creates easy-to-follow animations of how sorting algorithms work, alongside the algorithm code for a clear visual explanation. This is useful both in the classroom setting (for professors who have trouble showing the workings of a sorting algorithm) and for students overall who struggle with non-visual learning. 
+
 ### For whom?
 
 Visuarithm is for beginner coding students who may need some extra help understanding basic sorting algorithms like Bubble Sort, Insertion Sort, Merge Sort etc.. We know that it's hard to imagine how these algorithms work (because we've been there too!) so Visuarithm is here to help. By showing a visual representation of how these algorithms sort a dataset, while highlighting the parts of its code that the animation corresponds to, students can gain a better grasp of their coding basics. 
