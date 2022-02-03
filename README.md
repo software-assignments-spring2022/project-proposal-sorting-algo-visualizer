@@ -14,7 +14,7 @@ Users see a dataset on one side of the screen while the other contains the code 
 
 ### Scope
 
-With our extensive knowledge of sorting algorithms as computer science students, we already understand how the sorting algorithms work and will be able to easily showcase it to other students. Our next steps are simply to create the animations for the datasets and the corresponding code for the algorithms. 
+With our extensive knowledge of sorting algorithms as computer science students, we already understand how the sorting algorithms work and will be able to easily showcase it to other students. Our next steps are simply to create the animations for the datasets and the corresponding code for the algorithms. No login/registration is needed for this site since it is open for use to everyone; therefore, the work for this project is well within the scope of 4-6 programmers. 
 
 
 
